@@ -2,3 +2,12 @@
 h1 {
     text-align: center;
 }
+* {
+  box-sizing: border-box;
+}
+p {
+  width: 50%;
+  /*border: 1px solid black;*/
+  float: left;
+  padding: 10px;
+}
