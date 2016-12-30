@@ -65,7 +65,8 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FF0000;
+	background-color: #FFFF00;
+	color: White;
 }
 
 #sushi {
@@ -80,7 +81,6 @@ section {
 	margin-top: 0;
 	background-color: #FF1439;
 	padding: 5px;
-	color: Gray;
 }
 
 /* Desktop view */
