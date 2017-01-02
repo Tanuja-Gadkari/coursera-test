@@ -1,5 +1,3 @@
-/* Base Styles */
-
 * {
 	box-sizing: border-box;
 }
@@ -11,7 +9,8 @@ h1 {
 
 body {
 	background-image: url("background.jpg");
-	background-color: #FEF5CA;
+	/*background-color: #FEF5CA;*/
+background-color: #7CFC00;
 
 }
 
